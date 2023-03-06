@@ -1,0 +1,12 @@
+var variablepay= Number(document.getElementById("EmpVariablepay").value);
+            console.log(variablepay)
+            var totalearnings = basic+hra+conveyanceallowance+specialallowance+variablepay
+            console.log(totalearnings);
+            document.getElementById("EmpTotalearnings").value=totalearnings;
+            var professionaltax = 200.00
+            console.log(professionaltax)
+            document.getElementById("EmpProfessionaltax").value =professionaltax
+            var totaldeductions = professionaltax
+            document.getElementById("EmpTotaldeductions").value = totaldeductions
+            var netpayable = totalearnings-totaldeductions
+            console.log(netpayable)
