@@ -33,3 +33,8 @@ urlpatterns = [
 ]
 urlpatterns += static(MEDIA_URL,
                       document_root=MEDIA_ROOT)
+
+
+
+
+texted
