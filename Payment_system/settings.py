@@ -1,5 +1,7 @@
 import os
 """
+Deepika done changes
+CHanges done by deepika
 echo Hi from ajay........!
 
 Django settings for Payment_system project.
@@ -133,4 +135,4 @@ MEDIA_ROOT = Path.joinpath(BASE_DIR / 'Employee_data/media/')
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
-DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+// jyo // DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
