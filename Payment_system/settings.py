@@ -2,7 +2,6 @@ import os
 """
 Deepika done changes
 CHanges done by deepika
-
 echo Hi from ajay........!
 
 Django settings for Payment_system project.
